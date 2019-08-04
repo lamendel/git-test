@@ -1,1 +1,1 @@
-new inxed file created on master
+new index file created on master
